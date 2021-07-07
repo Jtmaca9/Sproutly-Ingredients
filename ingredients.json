@@ -1,0 +1,14 @@
+{
+    "ingredients" : [
+        {
+            "name": "Flax Seed",
+            "category": "seed"
+        }
+    ],
+    "categories": [
+        {
+            "name": "seed",
+            "color": "blue"
+        }
+    ]
+}
