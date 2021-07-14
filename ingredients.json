@@ -1,14 +1,56 @@
 {
-    "ingredients" : [
-        {
+    "ingredients" : {
+        "flaxSeed": {
             "name": "Flax Seed",
+            "id": "flaxSeed",
             "category": "seed"
+        },
+        "chiaSeed": {
+            "name": "Chia Seed",
+            "id": "chiaSeed",
+            "category": "seed"
+        },
+        "pumpkinSeed": {
+            "name": "Pumpkin Seed",
+            "id": "pumpkinSeed",
+            "category": "seed"
+        },
+        "flaxSeed1": {
+            "name": "Flax Seed",
+            "id": "flaxSeed1",
+            "category": "seed"
+        },
+        "flaxSeed2": {
+            "name": "Flax Seed",
+            "id": "flaxSeed2",
+            "category": "seed"
+        },
+        "flaxSeed3": {
+            "name": "Flax Seed",
+            "id": "flaxSeed3",
+            "category": "seed"
+        },
+        "chicken": {
+            "name": "Chicken",
+            "id": "chicken",
+            "category": "meat"
         }
-    ],
-    "categories": [
-        {
-            "name": "seed",
+    },
+    "categories": {
+        "seed": {
+            "name": "Seed",
+            "id": "seed",
             "color": "blue"
+        },
+        "meat": {
+            "name": "Meat",
+            "id": "meat",
+            "color": "red"
+        },
+        "dairy": {
+            "name": "Dairy",
+            "id": "dairy",
+            "color": "green"
         }
-    ]
+    }
 }
